@@ -1,0 +1,18 @@
+computer program = a collection of instructions executed by a computer 
+instruction list = the set of instructions the given computer can execute: written in the form of machine code 
+
+src code -----> machine code how?
+compilation- 
+compiles src code only once 
+anyone can run the executable file 
+
+interpretation --- such as Python or scripts 
+interprets src code every time you run programs 
+everyone needs the interpreter to run 
+
+python interpreter behavior 
+-typically reads code from top to bottom 
+-throws errors based on checking:
+1.lexis ( certain keywords)
+2.syntax ( rules that need to be followed)
+3.semantics (
